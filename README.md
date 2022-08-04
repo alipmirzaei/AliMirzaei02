@@ -1,6 +1,6 @@
 ## Hi there :)
 
-### I'm Ali Mirzaei and i am:
+### I'm Ali Mirzaei.
 - Python programmer
 - Interested in AI and DS
 - Currently learning and practising courses and algorithms
