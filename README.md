@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there :)
 
-<!--
-**AliMirzaei02/AliMirzaei02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Ali Mirzaei and i am:
+- Python programmer
+- Interested in AI and DS
+- Currently learning and practising courses and algorithms
+- Studying CS at FUM
+- Mashhad
 
-Here are some ideas to get you started:
+## Social Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn][12]][1] [![Instagram][22]][2] [![Telegram][32]][3]
+
+[12]: LinkedIn_logo.png
+[22]: Instagram_logo.png
+[32]: Telegram_logo.png
+
+[1]: https://www.linkedin.com/in/alimirzaei02
+[2]: https://www.instagram.com/ali.mirzaei.02
+[3]: http://telegram.me/ali.mirzaei.81
