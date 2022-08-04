@@ -17,4 +17,4 @@
 
 [1]: https://www.linkedin.com/in/alimirzaei02
 [2]: https://www.instagram.com/ali.mirzaei.02
-[3]: http://telegram.me/ali.mirzaei.81
+[3]: http://telegram.me/ali_mirzaei_81
